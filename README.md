@@ -48,7 +48,8 @@ print(x)
 ##  L and U matrix:
 ![image](https://github.com/user-attachments/assets/b58f1b8d-4230-46ea-9850-6460a8868009)
 ## LU decomposition of the matrix:
-![image](https://github.com/user-attachments/assets/b5715761-bd79-4712-9305-49accc8b2ac6)
+![image](https://github.com/user-attachments/assets/0720a95c-ba0f-4d4e-9ce4-f9d6aba41e0a)
+
 
 
 
