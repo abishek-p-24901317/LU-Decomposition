@@ -10,9 +10,9 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm for Finding L and U matrix:
 1. Import Required Libraries: Import numpy as np for array handling and lu from scipy.linalg for LU decomposition.
 2. Input the Matrix: Read the matrix from user input using eval(input()) and convert it to a NumPy array.
-3. Perform LU Decomposition: Apply lu(A) to decompose matrix A into three matrices: P (permutation), L (lower triangular), and U (upper triangular).
-4. Extract L and U Matrices: Store the lower triangular matrix in L and the upper triangular matrix in U.
-5. Display the Result: Print the matrices L and U to show the decomposition results.
+3. Convert the input into a NumPy array.
+4. Apply the lu() function to the matrix A to get:P: Permutation matrix, L: Lower triangular matrix, U: Upper triangular matrix
+5. Display the Result: Print the matrices L and U
 ## ALgorithm for LU Decomposition:
 6. Start the program.
 7. Prompt the user to enter: Matrix A (coefficients of the system).Vector b (constants on the right-hand side).
